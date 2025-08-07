@@ -70,6 +70,11 @@ This repository is here to help you, whether you're just starting out, preparing
 - [Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024)](<Exam Prep/Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024).pdf>)
 
 ## 📖 Research Papers
+- [Evaluating Kubernetes Distributions Insights from Stress Testing Scenarios (2025)](https://ieeexplore.ieee.org/document/10885637/)
+- [Gwydion Efficient auto-scaling for complex containerized applications in  Kubernetes through Reinforcement Learning (2025)](<Gwydion Efficient auto-scaling for complex containerized applications in  Kubernetes through Reinforcement Learning (2025).pdf>)
+- [Kubernetes in Action Exploring the Performance of Kubernetes Distributions in the Cloud (2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.70000)
+- [Dynamic Load Balancing in Kubernetes Environments With Kubernetes Scheduling Extension (KSE) (2025)](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8344)
+- [AI-Driven Kubernetes Orchestration Utilizing Intelligent Agents for Automated Cluster Management and Optimization (2025)](<Research Papers/AI-Driven Kubernetes Orchestration Utilizing Intelligent Agents for Automated Cluster Management and Optimization (2025).pdf>)
 - [Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing - Performance and Resource Efficiency (2025)](<Research Papers/Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing - Performance and Resource Efficiency (2025).pdf>)
 - [Deep Dive on How Kubernetes Auto-scales Applications Based on Demand (2025)](<Research Papers/Deep Dive on How Kubernetes Auto-scales Applications Based on Demand (2025).pdf>)
 - [The Future of AI in Production - Leveraging Kubernetes for Large Language Model Deployment (2025)](<Research Papers/The Future of AI in Production - Leveraging Kubernetes for Large Language Model Deployment (2025).pdf>)
