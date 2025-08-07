@@ -16,6 +16,8 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ---
 ## 🎞️ Slides
+- [Azure Kubernetes services (Deependra Vidyarthi, 2025)](<Slides/Azure Kubernetes services (Deependra Vidyarthi, 2025).pdf>)
+- [How to Perform Blue-Green Deployment Using Only Kubernetes Primitives (Jakub Krzywda, 2025)](<Slides/How to Perform Blue-Green Deployment Using Only Kubernetes Primitives (Jakub Krzywda, 2025).pdf>)
 - [Concise Kubernetes (Avinash Tietler, 2025)](<Slides/Concise Kubernetes (Avinash Tietler, 2025).pdf>)
 - [Mastering Kubernetes with Multi-Container Design Patterns (Salwan Mohamed, 2025)](<Slides/Mastering Kubernetes with Multi-Container Design Patterns (Salwan Mohamed, 2025).pdf>)
 - [Master ConfigMaps and Secrets in Kubernetes (Salwan Mohamed, 2025)](<Slides/Master ConfigMaps and Secrets in Kubernetes (Salwan Mohamed, 2025).pdf>)
@@ -32,6 +34,8 @@ This repository is here to help you, whether you're just starting out, preparing
 - [Kubernetes AWS (Tiffany Jernigan, 2018)](<Slides/Kubernetes AWS (Tiffany Jernigan, 2018).pdf>)
 
 ## 📘 Documentation
+- [Kubernetes Setup Using Kubeadm (Praveen Singampalli, 2025)](<Documentation/Kubernetes Setup Using Kubeadm (Praveen Singampalli, 2025).pdf>)
+- [Mastering Kubernetes with Taints, Tolerations, Labels and Selectors (Fenil Gajjar, 2025)](<Documentation/Mastering Kubernetes with Taints, Tolerations, Labels and Selectors (Fenil Gajjar, 2025).pdf>)
 - [Kubernetes From Pod to Prod (Aman Pathak, 2025)](<Documentation/Kubernetes From Pod to Prod (Aman Pathak, 2025).pdf>)
 - [A Complete Guide to Deploying and Managing Microservices on Kubernetes (DevOps Shack, 2025)](<Documentation/A Complete Guide to Deploying and Managing Microservices on Kubernetes (DevOps Shack, 2025).pdf>)
 - [Configure RBAC on Production Ready EKS Cluster (Aman Pathak, 2024)](<Documentation/Configure RBAC on Production Ready EKS Cluster (Aman Pathak, 2024).pdf>)
