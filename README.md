@@ -60,6 +60,8 @@ This repository is here to help you, whether you're just starting out, preparing
 ## ⚙️ Tools
 - [Helm](https://helm.sh/)
   - [DevOps Helm Charts (Ping Identity, 2025)](<Tools/Helm/DevOps Helm Charts (Ping Identity, 2025).pdf>)
+  - [Master Helm for Kubernetes (Salwan Mohamed, 2025)](<Tools/Helm/Master Helm for Kubernetes (Salwan Mohamed, 2025).pdf>)
+
 - [Kustomize](https://kustomize.io/)
   - [Introduction to Kustomize (Vincent Van Dam, 2019)](<Tools/Kustomize/Introduction to Kustomize (Vincent Van Dam, 2019).pdf>)
 
