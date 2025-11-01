@@ -122,6 +122,11 @@ If you find this repository useful, consider sharing your favorite resources, im
 ---
 
 ## 📖 Research Papers
+- [Gwydion: Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning (2025)](<Research Papers/Gwydion_ Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning.pdf>)
+- [Improving scalability, energy efficiency, and cost-effectiveness in Kubernetes clusters using a nonlinear regression-based predictive replica model and ORLE algorithm (2025)](<Research Papers/Improving scalability, energy efficiency, and cost-effectiveness in Kubernetes clusters using a nonlinear regression-based predictive replica model and ORLE algorithm.pdf>)
+- [Management of autoscaling serverless functions in edge computing via Q-Learning (2025)](<Research Papers/Management of autoscaling serverless functions in edge computing via Q-Learning.pdf>)
+- [Towards resource-efficient reactive and proactive auto-scaling for microservice architectures (2025)](<Research Papers/Towards resource-efficient reactive and proactive auto-scaling for microservice architectures.pdf>)
+- [Trust your local scaler: A continuous, decentralized approach to autoscaling (2025)](<Research Papers/Trust your local scaler_ A continuous, decentralized approach to autoscaling.pdf>)
 - [Evaluating Kubernetes Distributions: Insights from Stress Testing Scenarios (2025)](https://ieeexplore.ieee.org/document/10885637/)
 - [Gwydion: Efficient Auto-Scaling for Complex Containerized Applications in Kubernetes through Reinforcement Learning (2025)](<Research Papers/Gwydion Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning (2025).pdf>)
 - [Kubernetes in Action: Exploring the Performance of Kubernetes Distributions in the Cloud (2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.70000)
@@ -139,6 +144,9 @@ If you find this repository useful, consider sharing your favorite resources, im
 - [A Comparative Study on Enhancing Container Management with Kubernetes (2024)](<Research Papers/A Comparative Study on Enhancing Container Management with Kubernetes (2024).pdf>)
 - [Kubernetes Application Performance Benchmarking on Heterogeneous CPU Architecture - An Experimental Review (2024)](<Research Papers/Kubernetes Application Performance Benchmarking on Heterogeneous CPU Architecture - An Experimental Review (2024).pdf>)
 - [Kubernetes Deployment Options for On-Prem Clusters (2024)](<Research Papers/Kubernetes Deployment Options for On-Prem Clusters (2024).pdf>)
+- [Proactive resource management for cloud of services environments (2024)](<Research Papers/Proactive resource management for cloud of services environments.pdf>)
+- [Developing self-adaptive microservices (2024)](<Research Papers/Developing self-adaptive microservices.pdf>)
+- [Development and Design of an Intelligent Financial Asset Management System Based on Big Data Analysis and Kubernetes (2024)](<Research Papers/Development and Design of an Intelligent Financial Asset Management System Based on Big Data Analysis and Kubernetes.pdf>)
 - [Predicting Resource Consumption of Kubernetes Container Systems Using Resource Models (2023)](<Research Papers/Predicting Resource Consumption of Kubernetes Container Systems using Resource Models (2023).pdf>)
 - [A Formal Model of the Kubernetes Container Framework (2020)](<Research Papers/A Formal Model of the Kubernetes Container Framework (2020).pdf>)
 
