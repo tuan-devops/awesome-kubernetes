@@ -38,9 +38,11 @@ If you find this repository useful, consider sharing your favorite resources, im
 ---
 
 ## 💻 Sample Projects
+- [Azure Marketplace Kubernetes Apps (Microsoft Azure, 2025)](https://github.com/Azure-Samples/kubernetes-offer-samples)
+- [Kubernetes Hands-On Projects for Learning (DevOpsCube, 2025)](https://github.com/techiescamp/kubernetes-projects)
 - [Kubernetes Examples (Kubernetes, 2025)](https://github.com/kubernetes/examples)
 - [Sample Applications for Google Kubernetes Engine (GKE) (Google Cloud Platform, 2025)](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
-- [End-to-End-Kubernetes-Three-Tier-DevSecOps-Project (AmanPathak, 2025)](https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)
+- [End-to-End Kubernetes Three-Tier DevSecOps Project (AmanPathak, 2025)](https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)
 - [Fast Kubernetes (Ömer Berat Sezer, 2025)](https://github.com/omerbsezer/Fast-Kubernetes)
 - [Kubernetes The Hard Way (Kelsey Hightower, 2025)](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Wordsmith (Docker Samples, 2024)](https://github.com/dockersamples/wordsmith)
