@@ -155,6 +155,7 @@ Explore a rich set of materials, including:
 - [A Formal Model of the Kubernetes Container Framework (2020)](<Research and Theses/Papers/A Formal Model of the Kubernetes Container Framework.pdf>)
 
 ### Theses
+- [Optimizing Microservices Deployment with Kubernetes: A Performance and Scalability Analysis (Muhammad Ali, 2025)](<Research and Theses/Theses/Optimizing Microservices Deployment with Kubernetes: A Performance and Scalability Analysis (Muhammad Ali, 2025).pdf>)
 - [Generative AI-Enhanced Diagnosis of Kubernetes Resources Using K8sGPT and Ollama (Muna Mussa, 2025)](<Research and Theses/Theses/Generative AI-enhanced diagnosis of Kubernetes resources using K8sGPT and Ollama (Muna Mussa, 2025).pdf>)
 - [Evaluate Kubernetes for Stateful and Highly Available Enterprise Database Solutions (Anurag Sharma, 2023)](<Research and Theses/Theses/Evaluate Kubernetes for Stateful and highly available enterprise database solutions (Anurag Sharma, 2023).pdf>)
 - [Resilient System Deployment Using Kubernetes (Lenard Jensen, 2020)](<Research and Theses/Theses/Resilient System deployment using Kubernetes (Lenard Jensen, 2020).pdf>)
